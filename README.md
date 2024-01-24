@@ -1,4 +1,4 @@
-# Test ProjecTT
+# Test Project
 Your project's description...
 
 ## Environments
